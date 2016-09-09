@@ -971,7 +971,13 @@ ul.caption-slides li {
 }
 
 .creative-hero-page-2 {
-  background: url("../images/hero-image.jpg") no-repeat center center;
+  /*background: url("../images/hero-image.jpg") no-repeat center center;*/
+  /*background: url("../images/watercolor2.jpg") no-repeat center center;*/
+  /*background: url("../images/books.jpg") no-repeat center center;*/
+  background: url("../images/pen.jpeg") no-repeat center center;
+
+
+
   height: 100%;
   width: 100%;
   -webkit-background-size: cover;
@@ -1428,7 +1434,8 @@ ul.caption-slides li {
 }
 
 .statistic-bg {
-  background: url('../images/hands-suit.jpg') center top;
+  /*background: url('../images/hands-suit.jpg') center top;*/
+  background: url('../images/background.jpg') center top;
   position: relative;
 }
 
